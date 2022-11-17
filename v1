@@ -4,7 +4,6 @@
 #include <time.h>
 
 int main(void) {
-	srand(time(NULL)); // same number dis
 
     // valuable setting
     int Exp = 0, LVL = 0;
